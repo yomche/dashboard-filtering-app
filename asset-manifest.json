@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dashboard-filtering-app/static/css/main.629d92e0.css",
+    "main.js": "/dashboard-filtering-app/static/js/main.904ea6c5.js",
+    "static/media/bg-header-desktop.svg": "/dashboard-filtering-app/static/media/bg-header-desktop.8694f4668c94cdc9d16e.svg",
+    "index.html": "/dashboard-filtering-app/index.html",
+    "static/media/bg-header-mobile.svg": "/dashboard-filtering-app/static/media/bg-header-mobile.9cb13612af1317a665a2.svg",
+    "static/media/icon-remove.svg": "/dashboard-filtering-app/static/media/icon-remove.70c075ce001e5ccae7c68a570c4b7bc0.svg",
+    "main.629d92e0.css.map": "/dashboard-filtering-app/static/css/main.629d92e0.css.map",
+    "main.904ea6c5.js.map": "/dashboard-filtering-app/static/js/main.904ea6c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.629d92e0.css",
+    "static/js/main.904ea6c5.js"
+  ]
+}
