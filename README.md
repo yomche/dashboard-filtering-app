@@ -6,6 +6,8 @@
 
 ### Демострация проекта
 
+![](public/screen.png)
+
 Рабочую версию можно посмотреть на [GitHub Pages](https://yomche.github.io/dashboard-filtering-app)
 
 ### Установка
